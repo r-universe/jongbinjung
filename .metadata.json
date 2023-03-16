@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ggbuildr",
+    "oncran": true
+  },
+  {
+    "package": "rnr",
+    "oncran": true
+  }
+]
